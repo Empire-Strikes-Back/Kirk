@@ -1,4 +1,4 @@
-(ns world-peace-rap.peanuts
+(ns Kirk.peanuts
   (:require
    [clojure.core.async :as Little-Rock
     :refer [chan put! take! close! offer! to-chan! timeout thread
